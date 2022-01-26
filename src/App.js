@@ -32,7 +32,6 @@ function App() {
     },
     ];
 
-    console.log(data.title[0])
   
   return (
     <div className="App">
