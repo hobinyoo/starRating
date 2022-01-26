@@ -31,6 +31,8 @@ function App() {
       title: "일"
     },
     ];
+
+    console.log(data.title[0])
   
   return (
     <div className="App">
